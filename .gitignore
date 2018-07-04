@@ -1,1 +1,4 @@
 *.csv
+
+model.p
+metrics.txt

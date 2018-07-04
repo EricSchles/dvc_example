@@ -1,0 +1,11 @@
+cmd: python evaluate.py
+deps:
+- md5: aa04b8d0812c2fa958f849e011ffaa72
+  path: data/test.csv
+- md5: 0989d308777462ecd593a585dd480066
+  path: evaluate.py
+md5: 70959d8ff964d5aa76b0a57b72105cb3
+outs:
+- cache: true
+  md5: 7f57b5cf8948168234708c9dbd0fdf2e
+  path: metrics.txt
