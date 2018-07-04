@@ -1,0 +1,5 @@
+cmd: ''
+deps:
+- md5: 6578afec700b946ea36f03c7a5791a2f
+  path: data/train.csv
+md5: 0c253efa5cfaa0217738088feee3dbb8
