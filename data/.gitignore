@@ -1,7 +1,8 @@
 data.csv
-test.csv
 train.csv*.pyc
 
 train.csv*.p
 
+
 train.csv
+test.csv
