@@ -1,13 +1,13 @@
 cmd: python evaluate.py
 deps:
-- md5: 0766b09f80b063b63188946f8cf502b7
+- md5: 9fb57a8cec109f6d1d61e6d03cdb3869
   path: model.p
-- md5: e20d49be44467843d8748ab71504bad6
+- md5: 16701c999ec294ac764eb0380aded2c2
   path: data/test.csv
 - md5: 0989d308777462ecd593a585dd480066
   path: evaluate.py
-md5: a54d4c9d4d807a87fbd4479588146eda
+md5: db7437642a36f7ca0b7afad6b0e8006b
 outs:
 - cache: true
-  md5: f61b09334e86151420f03b469b55db41
+  md5: d302cb4e5abfae228f66026bf3d17977
   path: metrics.txt
