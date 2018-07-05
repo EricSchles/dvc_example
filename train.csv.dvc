@@ -1,0 +1,14 @@
+cmd: python test_train_split.py
+deps:
+- md5: 8fc8c7714e25c61a8beb662a7713dbb2
+  path: test_train_split.py
+- md5: 1a8d5515f237b9b995eb4beb99bb6e9c
+  path: data/data.csv
+md5: 39aeec72d222490536251cb6aa7a81cc
+outs:
+- cache: true
+  md5: 8c165f7bb1a1c4753769c76f5410b5f3
+  path: data/train.csv
+- cache: true
+  md5: ea236e5b95a853e881b715081a643ae0
+  path: data/test.csv

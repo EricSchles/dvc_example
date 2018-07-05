@@ -1,0 +1,9 @@
+cmd: python generate_data.py
+deps:
+- md5: 64b4523315e75812bfad484706f88116
+  path: generate_data.py
+md5: 1d9c37063da1b065fbf82105a808a280
+outs:
+- cache: true
+  md5: 1a8d5515f237b9b995eb4beb99bb6e9c
+  path: data/data.csv
