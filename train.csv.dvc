@@ -2,13 +2,13 @@ cmd: python test_train_split.py
 deps:
 - md5: d84ca16d0db1b3815f06f1dde0dd424f
   path: test_train_split.py
-- md5: 1a8d5515f237b9b995eb4beb99bb6e9c
+- md5: af04ad7293f0f334849f8028fbfaca74
   path: data/data.csv
-md5: 6e4989cc18dd336d2fca4d5f986b3798
+md5: 7cf3cf4de88bd3300ce897d54689fca4
 outs:
 - cache: true
-  md5: e5f8508883d841521d646e8258467be1
+  md5: b599eeed0cd9f8c11a4503ca55d289c3
   path: data/train.csv
 - cache: true
-  md5: e3043b471670d5e7c4908000666b5433
+  md5: e20d49be44467843d8748ab71504bad6
   path: data/test.csv
