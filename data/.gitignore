@@ -3,3 +3,5 @@ test.csv
 train.csv*.pyc
 
 train.csv*.p
+
+train.csv

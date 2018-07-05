@@ -1,0 +1,13 @@
+cmd: python train_model.py
+deps:
+- md5: 6578afec700b946ea36f03c7a5791a2f
+  path: data/train.csv
+- md5: aa04b8d0812c2fa958f849e011ffaa72
+  path: data/test.csv
+- md5: b91ae0340487b90cc7fe4a85268ec1f4
+  path: train_model.py
+md5: ae1459ed46e747495952d02fafaab697
+outs:
+- cache: true
+  md5: abb977f38ba71bd3e34bf92be51a4033
+  path: model.p
