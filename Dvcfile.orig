@@ -1,0 +1,24 @@
+cmd: python evaluate.py
+deps:
+<<<<<<< HEAD
+- md5: 9fb57a8cec109f6d1d61e6d03cdb3869
+=======
+- md5: deab8bbe8ba3bac1bbe87aa44bec553e
+>>>>>>> model_change
+  path: model.p
+- md5: 16701c999ec294ac764eb0380aded2c2
+  path: data/test.csv
+- md5: 0989d308777462ecd593a585dd480066
+  path: evaluate.py
+<<<<<<< HEAD
+md5: db7437642a36f7ca0b7afad6b0e8006b
+outs:
+- cache: true
+  md5: d302cb4e5abfae228f66026bf3d17977
+=======
+md5: ce46a56b96e7b85deb85821799bc0a33
+outs:
+- cache: true
+  md5: d982f8b7ea237b6c2fbbdba7bd01b1f9
+>>>>>>> model_change
+  path: metrics.txt
